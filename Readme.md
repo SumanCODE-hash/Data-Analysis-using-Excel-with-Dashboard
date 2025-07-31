@@ -22,5 +22,5 @@ The project includes:
 
 ## 📈 Sample Dashboard
 
-![Sales by Country Dashboard](./Coffee Sales Dashboards.png)
+![Sales by Country Dashboard](Coffee Sales Dashboards.png)
 
