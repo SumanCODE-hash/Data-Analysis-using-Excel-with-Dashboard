@@ -24,5 +24,3 @@ The project includes:
 
 ![Sales by Country Dashboard](./dashboards/sales_by_country.png)
 
-## 📂 Repository Structure
-
