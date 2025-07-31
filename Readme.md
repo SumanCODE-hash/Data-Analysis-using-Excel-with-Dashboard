@@ -17,7 +17,7 @@ The project includes:
     - Country-wise sales performance (e.g., top-performing country)
 
 - 🎯 **Dashboard Creation**  
-  - Applied consistent formatting, slicers, and chart visuals  
+  - Applied consistent formatting, slicers, timeline, and chart visuals  
   - Designed interactive dashboards for dynamic filtering and exploration
 
 ## 📈 Sample Dashboard
